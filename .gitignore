@@ -8,8 +8,8 @@ env/
 venv/
 *.egg-info/
 
-# Data files (too large for git)
-*.csv
+# Data files
+# *.csv  # Commented out to include CSV for Streamlit deployment
 !requirements.txt
 
 # IDE
